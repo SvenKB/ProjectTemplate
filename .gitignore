@@ -37,3 +37,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Folders
+
+/04_feldarbeit
+/05_daten
